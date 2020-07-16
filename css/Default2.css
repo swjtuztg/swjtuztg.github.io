@@ -1,0 +1,69 @@
+DIV.yola_gallery_widget {
+	TEXT-ALIGN: center
+}
+DIV.yola_gallery_widget P.gallery_description {
+	PADDING-BOTTOM: 25px !important; MARGIN: 0px; PADDING-LEFT: 0px !important; PADDING-RIGHT: 0px !important; PADDING-TOP: 0px !important
+}
+DIV.yola_gallery_widget H2.gallery_description {
+	PADDING-BOTTOM: 20px !important; MARGIN: 0px; PADDING-LEFT: 0px !important; PADDING-RIGHT: 0px !important; PADDING-TOP: 0px !important
+}
+DIV.yola_gallery_widget A {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+DIV.yola_gallery_widget A IMG {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+DIV.yola_gallery_widget IMG {
+	-moz-border-radius: 0; -webkit-border-radius: 0; -khtml-border-radius: 0; -o-border-radius: 0; border-radius: 0
+}
+DIV.yola_gallery_widget DIV.polaroid SPAN.item {
+	TEXT-ALIGN: left; MARGIN: 0px 10px 20px; WIDTH: 124px; DISPLAY: inline-block; BACKGROUND: url(../../resources/polaroid.png) no-repeat left top; HEIGHT: 128px
+}
+DIV.yola_gallery_widget DIV.polaroid SPAN.item A.backing {
+	POSITION: static; MARGIN: 12px 0px 0px 12px; WIDTH: 100px; DISPLAY: inline-block; BACKGROUND: #bbb; HEIGHT: 100px; TEXT-DECORATION: none
+}
+DIV.yola_gallery_widget DIV.polaroid SPAN.portrait A.backing {
+	BACKGROUND: #bbb
+}
+DIV.yola_gallery_widget DIV.polaroid SPAN.landscape A.backing {
+	BACKGROUND: #bbb
+}
+DIV.yola_gallery_widget DIV.polaroid SPAN.item A IMG {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+DIV.yola_gallery_widget DIV.polaroid SPAN.item SPAN.image {
+	BACKGROUND-COLOR: transparent; WIDTH: 100px; DISPLAY: inline-block; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: center center; HEIGHT: 100px; -moz-box-shadow: 0 0 5px rgba(0, 0, 0, 0.35) inset; -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.35) inset; box-shadow: 0 0 5px rgba(0, 0, 0, 0.35) inset
+}
+DIV.yola_gallery_widget DIV.polaroid SPAN.item SPAN.over-shadow {
+	Z-INDEX: 1; POSITION: absolute; WIDTH: 100px; DISPLAY: none; HEIGHT: 100px; TOP: 0px; LEFT: 0px; -moz-box-shadow: 0 0 5px rgba(0, 0, 0, 0.35) inset; -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.35) inset; box-shadow: 0 0 5px rgba(0, 0, 0, 0.35) inset
+}
+DIV.yola_gallery_widget DIV.round-frame A {
+	POSITION: static; MARGIN: 0px 0px 20px 20px; WIDTH: 100px; DISPLAY: inline-block; HEIGHT: 100px; FONT-SIZE: 0px; TEXT-DECORATION: none; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -o-border-radius: 10px; border-radius: 10px; -moz-box-shadow: 0 0 5px rgba(0, 0, 0, 0.55), 0 1px 0 rgba(255, 255, 255, 0.5); -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.55) inset, 0 1px 0 rgba(255, 255, 255, 0.5); box-shadow: 0 0 5px rgba(0, 0, 0, 0.55) inset, 0 1px 0 rgba(255, 255, 255, 0.5)
+}
+DIV.yola_gallery_widget DIV.round-frame A SPAN.shadow {
+	POSITION: absolute; WIDTH: 100px; DISPLAY: none; HEIGHT: 100px; TOP: 0px; LEFT: 0px
+}
+DIV.yola_gallery_widget DIV.round-frame A IMG {
+	FLOAT: left
+}
+DIV.yola_gallery_widget DIV.round-corners SPAN.item {
+	TEXT-ALIGN: left; MARGIN: 0px 7px 15px; WIDTH: 130px; DISPLAY: inline-block; BACKGROUND: url(../../resources/round-frame.png) no-repeat left top; HEIGHT: 130px
+}
+DIV.yola_gallery_widget DIV.round-corners SPAN.item A.backing {
+	POSITION: relative; MARGIN: 15px 0px 0px 15px; WIDTH: 100px; DISPLAY: inline-block; BACKGROUND: #bbb; HEIGHT: 100px; TEXT-DECORATION: none
+}
+DIV.yola_gallery_widget DIV.round-corners SPAN.portrait A.backing {
+	BACKGROUND: #bbb
+}
+DIV.yola_gallery_widget DIV.round-corners SPAN.landscape A.backing {
+	BACKGROUND: #bbb
+}
+DIV.yola_gallery_widget DIV.round-corners SPAN.item A IMG {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+DIV.yola_gallery_widget DIV.round-corners SPAN.item SPAN.image {
+	BACKGROUND-COLOR: transparent; WIDTH: 100px; DISPLAY: inline-block; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: center center; HEIGHT: 100px
+}
+DIV.yola_gallery_widget DIV.round-corners SPAN.item SPAN.round-corners-shadow {
+	Z-INDEX: 1; POSITION: absolute; WIDTH: 100px; DISPLAY: inline-block; BACKGROUND: url(../../resources/round-frame-shadow.png) no-repeat left top; HEIGHT: 100px; TOP: 0px; LEFT: 0px; _behavior: url(../../resources/iepngfix.htc)
+}
